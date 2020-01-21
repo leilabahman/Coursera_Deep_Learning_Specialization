@@ -6,23 +6,23 @@ There are five courses in this specialization. Currently, the first two  courses
 
 # Neural Networks and Deep Learning
 * Week 1
-** Introduction to Deep Learning
+ * Introduction to Deep Learning
 * Week 2
-** Logistic Regression as a Neural Network
-** Python and Vectorization
+ * Logistic Regression as a Neural Network
+ * Python and Vectorization
 * Week 3
-** Shallow neural networks
+ * Shallow neural networks
 * Week 4
-** Deep Neural Networks
+ * Deep Neural Networks
 # Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 * Week 1
-** Practical aspects of Deep Learning
-*** Setting up your Machine Learning Application
-*** Regularizing your neural network
-*** Setting up your optimization problem
+ * Practical aspects of Deep Learning
+  * Setting up your Machine Learning Application
+  * Regularizing your neural network
+  * Setting up your optimization problem
 * Week 2
-** Optimization algorithms
+ * Optimization algorithms
 * Week3
-** Hyperparameter tuning, Batch Normalization and Programming Frameworks
+ * Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 Leila
