@@ -4,7 +4,7 @@ This repository contains my work on Coursera "Deep Learning Specialization" prog
 
 There are five courses in this specialization. Currently, the first two  courses are on this repository:
 
-# Neural Networks and Deep Learning
+## Neural Networks and Deep Learning
 - Week 1
   * Introduction to Deep Learning
 - Week 2
@@ -14,7 +14,7 @@ There are five courses in this specialization. Currently, the first two  courses
   * Shallow neural networks
 - Week 4
   * Deep Neural Networks
-# Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+## Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 * Week 1
   * Practical aspects of Deep Learning
 * Week 2
