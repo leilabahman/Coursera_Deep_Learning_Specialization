@@ -17,9 +17,6 @@ There are five courses in this specialization. Currently, the first two  courses
 # Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 * Week 1
   * Practical aspects of Deep Learning
-    1.Setting up your Machine Learning Application
-    2.Regularizing your neural network
-    3.Setting up your optimization problem
 * Week 2
   * Optimization algorithms
 * Week3
