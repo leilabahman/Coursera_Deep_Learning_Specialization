@@ -21,12 +21,12 @@ There are five courses in this specialization. Currently, courses 1 to 4 are on 
   * Optimization algorithms
 - Week3
   * Hyperparameter tuning, Batch Normalization and Programming Frameworks
-  ## Structuring Machine Learning Projects
+## Structuring Machine Learning Projects
 - Week 1
   * ML Strategy(1)
 - Week 2
    * ML Strategy(2)
-   ## Convolutional Neural Networks
+## Convolutional Neural Networks
 - Week 1
    * Foundations of Convolutional Neural Networks
 - Week 2
